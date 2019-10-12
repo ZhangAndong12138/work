@@ -77,4 +77,7 @@
 >备选：TransportClient
 
 ### 3. 搜索流程
-1. 
+1. `search_index.html`中，点击**搜索**跳转到`search_list.html`，参数为
+- `query`：搜索内容
+- `categorystatus`： 搜索类型 0-全部 1-资讯 2-文档
+2. 
